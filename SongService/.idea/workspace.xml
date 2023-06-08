@@ -33,7 +33,11 @@
       <change afterPath="$PROJECT_DIR$/../EurekaServer/build/resolvedMainClassName" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EurekaServer/build/resources/main/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EurekaServer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/ProfileRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/Entity/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/config/ProfileRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/repository/ProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/SpringBootTraining/ProfileData/ProfileControllerTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/SpringBootTraining/ProfileData/ProfileServiceTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gradle/7.6.1/checksums/checksums.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gradle/7.6.1/checksums/md5-checksums.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gradle/7.6.1/checksums/sha1-checksums.bin" afterDir="false" />
@@ -50,26 +54,27 @@
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ExceptionControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/ProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/ProfileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/ExceptionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/dto/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/service/ProfileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProfileService/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProfileService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/AuthRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/AuthRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/Profile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/ProfileDataApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/ProfileDataApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/GenralConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/GenralConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/controller/ProfileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/AuthRecordRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/AuthRecordRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDtoForJwt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDtoForJwt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/repository/ProfileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/repository/ProfileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/service/ProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/service/ProfileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/AuthRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/Entity/AuthRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/dto/ProfileRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/ProfileDataApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/ProfileDataApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/GenralConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/config/GenralConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/controller/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/AuthRecordRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/dto/AuthRecordRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/dto/ProfileResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDtoForJwt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/dto/ProfileResponseDtoForJwt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/repository/ProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/service/ProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/SpringBootTraining/ProfileData/service/ProfileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/L8/ProfileData/ProfileDataApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/L8/ProfileData/ProfileDataApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/L8/ProfileData/ProfileDataApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/SpringBootTraining/ProfileData/ProfileDataApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProfileService/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
@@ -111,32 +116,32 @@
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/SongServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/SongServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/AuthFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/BeanConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/OpenAPICOnfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/OpenAPICOnfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/CommentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/SongController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/AuthRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/CommentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/CommentRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/CommentResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/CommentResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/SongRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/SongRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/SongResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/SongResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Profile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/repository/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/repository/CommentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/repository/SongRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/repository/SongRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/CommentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/JwtAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/JwtAuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/SongService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/SongService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/util/UserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/util/UserUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/SongServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/SongServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/AuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/OpenAPICOnfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/OpenAPICOnfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/ProfileInfoUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/ProfileInfoUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/controller/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/controller/SongController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/dto/AuthRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/CommentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/dto/CommentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/CommentResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/dto/CommentResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/SongRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/dto/SongRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/dto/SongResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/dto/SongResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/entity/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/entity/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/entity/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/entity/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/repository/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/repository/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/repository/SongRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/repository/SongRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/JwtAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/service/JwtAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/service/SongService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/service/SongService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crashcourse/L8/SongService/util/UserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crashcourse/SpringBootTraining/SongService/util/UserUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/crashcourse/L8/SongService/SongServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crashcourse/L8/SongService/SongServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crashcourse/L8/SongService/SongServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crashcourse/SpringBootTraining/SongService/SongServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,15 +181,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/hal/Documents/SongApp_Working_BackEnd/SongService"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hal/Documents/SongApp_Working_BackEnd/SongService&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
