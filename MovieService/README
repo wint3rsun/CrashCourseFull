@@ -1,0 +1,9 @@
+This repository contains two services: AccountData Service and MovieServices. The AccountData Service provides account information such as adding, getting, deleting, and listing users. These services are essential for the MovieServices login and user details. Both services use Swagger.
+
+Getting Started Prerequisites To run these services, you need to have the following:
+
+MySQL database Java Spring Boot JWT Spring Security Microservices Installation Create a database named "AccountData" in MySQL and run the AccountData Service. Go to http://localhost:8081/swagger-ui.html to check if the AccountData Service is up and running. Use the POST method rest/account endpoint to create a couple of users in the AccountData Service. Use these users for the MovieServices. Create a database named "MovieData" and run the MovieServices. Login using the users created in the AccountData Service. Add movie, get movie, and review on the movie. Go to http://localhost:8080/swagger-ui/index.html to access the MovieServices Swagger UI. Usage AccountData Service The AccountData Service provides the following endpoints:
+
+POST method rest/account: Adds a new user to the database. GET method rest/account/{id}: Retrieves a user by ID. DELETE method rest/account/{id}: Deletes a user by ID. GET method rest/account/list: Retrieves all users in the database. MovieServices The MovieServices provides the following endpoints:
+
+POST method rest/auth/authenticate: Logs in a user and returns a JWT token. PUT method rest/movie/{id}: Like the movie GET method rest/movie/{id}: Retrieves a movie by ID.

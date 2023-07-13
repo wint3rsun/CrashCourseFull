@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e5dc9c9-e214-479a-8d50-5b8695a8c807" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/7.6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/build/resolvedMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/AuthRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/Entity/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/ProfileDataApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/GenralConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/controller/ProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/AuthRecordRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/dto/ProfileResponseDtoForJwt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/repository/ProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/java/com/crashcourse/L8/ProfileData/service/ProfileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/src/test/java/com/crashcourse/L8/ProfileData/ProfileDataApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfileService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/SongServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/config/AuthFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/config/BeanConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/config/OpenAPICOnfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/config/ProfileInfoUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/config/ProfileInfoUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/controller/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/controller/SongController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/dto/AuthRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/dto/CommentRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/dto/CommentResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/dto/SongRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/dto/SongResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/entity/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/entity/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/entity/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/repository/CommentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/repository/SongRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/service/JwtAuthService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/service/SongService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/classes/java/main/com/upwork/SoundCloud/SongService/util/UserUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/resolvedMainClassName" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/SongServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/config/AuthFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/config/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/config/OpenAPICOnfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/config/ProfileInfoUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/controller/SongController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/dto/AuthRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/dto/CommentRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/dto/CommentResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/dto/SongRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/dto/SongResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/entity/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/entity/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/repository/CommentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/repository/SongRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/service/JwtAuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/service/SongService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/java/com/crashcourse/L8/SongService/util/UserUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SongService/src/test/java/com/crashcourse/L8/SongService/SongServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MovieService" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PqmC6ZOOCrAaa6LmY8QTI1uyQq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hal/Documents/Cohort2/MovieApp_Working_BackEnd/MovieService&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MovieService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MovieService" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e5dc9c9-e214-479a-8d50-5b8695a8c807" name="Changes" comment="" />
+      <created>1684192855703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684192855703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

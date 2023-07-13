@@ -1,2 +1,1 @@
-# CrashCourseFull
-The full project for Spring Boot Crash Course
+# SongApp_Training Information

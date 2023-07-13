@@ -1,9 +1,0 @@
-This repository contains two services: ProfileData Service and SongServices. The ProfileData Service provides profile information such as adding, getting, deleting, and listing users. These services are essential for the SongServices login and user details. Both services use Swagger.
-
-Getting Started Prerequisites To run these services, you need to have the following:
-
-MySQL database Java Spring Boot JWT Spring Security Microservices Installation Create a database named "ProfileData" in MySQL and run the ProfileData Service. Go to http://localhost:8081/swagger-ui.html to check if the ProfileData Service is up and running. Use the POST method rest/profile endpoint to create a couple of users in the ProfileData Service. Use these users for the SongServices. Create a database named "SongData" and run the SongServices. Login using the users created in the ProfileData Service. Add song, get song, and comment on the song. Go to http://localhost:8080/swagger-ui/index.html to access the SongServices Swagger UI. Usage ProfileData Service The ProfileData Service provides the following endpoints:
-
-POST method rest/profile: Adds a new user to the database. GET method rest/profile/{id}: Retrieves a user by ID. DELETE method rest/profile/{id}: Deletes a user by ID. GET method rest/profile/list: Retrieves all users in the database. SongServices The SongServices provides the following endpoints:
-
-POST method rest/auth/authenticate: Logs in a user and returns a JWT token. PUT method rest/song/{id}: Like the song GET method rest/song/{id}: Retrieves a song by ID.
