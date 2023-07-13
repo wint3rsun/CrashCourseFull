@@ -1,1 +1,1 @@
-# SongApp_Training Information
+# MovieApp_Training Information
